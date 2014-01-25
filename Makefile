@@ -1,6 +1,6 @@
 -include local.mk
 
-BASE_URL=http://ftp.mozilla.org/pub/mozilla.org/b2g/nightly/latest-mozilla-central/
+BASE_URL=http://ftp.mozilla.org/pub/mozilla.org/b2g/nightly/latest-mozilla-central/en-US
 SYS=$(shell uname -s)
 ARCH?=$(shell uname -m)
 DMG=b2g-29.0a1.en-US.mac64.dmg
